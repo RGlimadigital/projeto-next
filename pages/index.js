@@ -2,7 +2,7 @@ import {useState} from 'react';
 
 function Home(){
    return <div className="container">
-      <h1>My Next Project</h1>
+      <h1>My Next.Js Project</h1>
       <hr/>
       <h2>Made by React</h2>
       <p>Projeto para demonstração das funcionalidades do Next.js framework.</p>
